@@ -1,0 +1,22 @@
+TASK 22 – COHORT RETENTION BASICS
+
+Rollback Evidence
+
+Current Version:
+Cohort retention analysis completed using Python.
+
+Saved Outputs:
+
+- cohort_retention_table.csv
+- cohort_retention_heatmap.png
+- insights.txt
+- README.md
+
+Rollback Method:
+The original dataset was kept unchanged, and the analysis outputs were generated as separate files. If any analysis or output needs to be reverted, the generated files can be deleted and recreated from the original dataset using the Python analysis script.
+
+Original Data:
+Online Retail II dataset was preserved separately from the generated analysis outputs.
+
+Status:
+Analysis completed and outputs saved successfully.
